@@ -1,0 +1,107 @@
+{
+    "id": "",
+    "status": 200,
+    "resource": "/api/v1.0/desafios-capciosas",
+    "data": {
+        "status": "Success",
+        "campos": [
+            {
+                "clave": "Language",
+                "valor": "es-GT"
+            }
+        ],
+        "token_autenticacion": "573b391f-4d69-43a7-8592-0ce339626a7d",
+        "cuestionario": {
+            "preguntas": [
+                {
+                    "tipo": "MultipleChoicesSingleAnswer",
+                    "texto": "Q062 - ¿Cuál es el segundo nombre de su hermano(a)?",
+                    "id": "93b81bec-bf87-4ad4-af74-e910c2ae55fc",
+                    "opciones": [
+                        {
+                            "seleccionada": "false",
+                            "contenido": "DARIO"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "ANDRES"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "DORIS"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "Ninguna de las Anteriores"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "MultipleChoicesSingleAnswer",
+                    "texto": "Q070 - ¿En cuál de las siguientes comunas ha vivido?",
+                    "id": "4a3111e6-fadd-4d3a-8142-4fda9f5897a0",
+                    "opciones": [
+                        {
+                            "seleccionada": "false",
+                            "contenido": "PALENA"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "PUERTO MONTT"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "FRUTILLAR"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "Ninguna de las Anteriores"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "MultipleChoicesSingleAnswer",
+                    "texto": "Q002 - ¿De los siguientes teléfonos, cuál reconoce o está relacionado con usted?",
+                    "id": "2ad8e44f-767b-4ac6-b480-e998684c0044",
+                    "opciones": [
+                        {
+                            "seleccionada": "false",
+                            "contenido": "9-94473253"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "9-91900933"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "9-96319548"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "Ninguna de las Anteriores"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "MultipleChoicesSingleAnswer",
+                    "texto": "Q056 - ¿Su estado civil a Febrero del 2015 era casado?",
+                    "id": "ca3fa7c6-8b44-4960-9a15-621cb67b36c8",
+                    "opciones": [
+                        {
+                            "seleccionada": "false",
+                            "contenido": "No"
+                        },
+                        {
+                            "seleccionada": "false",
+                            "contenido": "Si"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "metadata": {
+        "X-B3-SpanId": "68e410cab6fe9a97",
+        "X-B3-TraceId": "68e410cab6fe9a97"
+    }
+}
